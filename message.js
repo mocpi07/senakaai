@@ -723,7 +723,7 @@ caption: `\n${teks}`,
 contextInfo: {
 externalAdReply: {
 showAdAttribution: true,
-title: '⟡V E E M O N • M U L T I • D E V I C E⟡',
+title: '⟡S E N A K A • M U L T I • D E V I C E⟡',
 body: `© KAPII OFFICIAL - 2024` ,
 thumbnailUrl: url,
 sourceUrl: '',
@@ -11836,7 +11836,7 @@ let msghhhhhhhhhhhhhhhhhhh = generateWAMessageFromContent(m.chat, {
                         businessOwnerJid: ptz.decodeJid(ptz.user.id)
                     },
                     externalAdReply: {
-                        title: '⟡V E E M O N • M U L T I • D E V I C E⟡',
+                        title: '⟡S E N A K A • M U L T I • D E V I C E⟡',
                         body: "x ᴛʜᴇᴍᴇ ᴅɪɢɪ ᴇᴠᴏ - ᴠᴇʀ",
                         thumbnail: fs.readFileSync("./zio.jpg"),
                         sourceUrl: '',
@@ -11899,7 +11899,7 @@ forwardedNewsletterMessageInfo: {
         },
 externalAdReply: {
 showAdAttribution: true,
-title: '⟡V E E M O N • M U L T I • D E V I C E⟡',
+title: '⟡S E N A K A • M U L T I • D E V I C E⟡',
 body: `x ᴛʜᴇᴍᴇ ᴅɪɢɪ ᴇᴠᴏ - ᴠᴇʀ` ,
 thumbnail: fs.readFileSync('./zio.jpg'),
 sourceUrl: '',
@@ -12940,7 +12940,7 @@ forwardedNewsletterMessageInfo: {
         },
 externalAdReply: {
 showAdAttribution: true,
-title: '⟡V E E M O N • M U L T I • D E V I C E⟡',
+title: '⟡S E N A K A • M U L T I • D E V I C E⟡',
 body: `x ᴛʜᴇᴍᴇ ᴅɪɢɪ ᴇᴠᴏ - ᴠᴇʀ` ,
 thumbnail: fs.readFileSync('./zio.jpg'),
 sourceUrl: '',
@@ -12964,7 +12964,7 @@ forwardedNewsletterMessageInfo: {
         },
 externalAdReply: {
 showAdAttribution: true,
-title: '⟡V E E M O N • M U L T I • D E V I C E⟡',
+title: '⟡S E N A K A • M U L T I • D E V I C E⟡',
 body: `x ᴛʜᴇᴍᴇ ᴅɪɢɪ ᴇᴠᴏ - ᴠᴇʀ` ,
 thumbnail: fs.readFileSync('./zio.jpg'),
 sourceUrl: '',
@@ -16447,7 +16447,7 @@ let msghhhhhhhhhhhhhhhhhhhk = generateWAMessageFromContent(m.chat, {
  businessOwnerJid: ptz.decodeJid(ptz.user.id)
  },
  externalAdReply: {
- title: '⟡V E E M O N • M U L T I - D E V I C E⟡',
+ title: '⟡S E N A K A • M U L T I - D E V I C E⟡',
  body: "x ᴛʜᴇᴍᴇ ᴅɪɢɪ ᴇᴠᴏ - ᴠᴇʀ",
  thumbnailUrl: "https://telegra.ph/file/f81f19a203231c4f2bf29.jpg",
  sourceUrl: '',
